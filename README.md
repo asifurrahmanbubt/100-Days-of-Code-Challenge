@@ -11,7 +11,6 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 02](#day-02)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
-5. [Contact](#contact)
 
 ## About the Challenge
 
