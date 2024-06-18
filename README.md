@@ -9,8 +9,10 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
 3. [Daily Progress](#daily-progress)
     - [Day 01](#day-01)
     - [Day 02](#day-02)
+    - [Day 03](#day-03)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
+5. [Contact](#contact)
 
 ## About the Challenge
 
@@ -46,6 +48,14 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 02 folder](./Day%2002)
 
+### Day 03
+
+- **Calculated the average of 3 numbers**
+- **Computed the area of a square**
+- **Calculated the total cost and bill with 18% GST for 3 items**
+
+[Link to Day 03 folder](./Day%2003)
+
 ### More Days Coming Soon...
 
 Stay tuned as I continue to update this repository with new code and learning progress every day!
@@ -58,3 +68,7 @@ Each day has its own folder (e.g., `Day 01`, `Day 02`, etc.) containing all the 
 - Any additional resources or notes related to that day's learning
 
 Feel free to browse through the folders and explore the code. If you have any questions or suggestions, please reach out!
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out.
