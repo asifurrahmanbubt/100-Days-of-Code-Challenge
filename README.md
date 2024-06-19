@@ -10,6 +10,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 01](#day-01)
     - [Day 02](#day-02)
     - [Day 03](#day-03)
+    - [Day 04](#day-04)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -55,6 +56,17 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 - **Calculated the total cost and bill with 18% GST for 3 items**
 
 [Link to Day 03 folder](./Day%2003)
+
+### Day 04
+
+- **Wrote 5 codes on:**
+  - **Arithmetic operations**
+  - **Unary operations**
+  - **Relational operations**
+  - **Assignment operations**
+  - **Logical operations**
+
+[Link to Day 04 folder](./Day%2004)
 
 ### More Days Coming Soon...
 
