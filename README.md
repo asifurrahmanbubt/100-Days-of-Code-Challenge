@@ -11,6 +11,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 02](#day-02)
     - [Day 03](#day-03)
     - [Day 04](#day-04)
+    - [Day 05](#day-05)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -67,6 +68,21 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Logical operations**
 
 [Link to Day 04 folder](./Day%2004)
+
+### Day 05
+
+- **Wrote 9 codes on:**
+  - **Basic If Else**
+  - **Odd or Even**
+  - **Basic Else If**
+  - **Tax Calculator**
+  - **Biggest Number**
+  - **Ternary Operator**
+  - **Pass or Fail in Exam**
+  - **Switch Case**
+  - **A Basic Calculator**
+
+[Link to Day 05 folder](./Day%2005)
 
 ### More Days Coming Soon...
 
