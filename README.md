@@ -12,6 +12,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 03](#day-03)
     - [Day 04](#day-04)
     - [Day 05](#day-05)
+    - [Day 06](#day-06)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -83,6 +84,17 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **A Basic Calculator**
 
 [Link to Day 05 folder](./Day%2005)
+
+### Day 06
+
+- **Wrote 5 codes on:**
+  - **Positive or negative number**
+  - **Check if someone has a fever**
+  - **Check the day of the week**
+  - **Ternary test**
+  - **Leap year checker**
+
+[Link to Day 06 folder](./Day%2006)
 
 ### More Days Coming Soon...
 
