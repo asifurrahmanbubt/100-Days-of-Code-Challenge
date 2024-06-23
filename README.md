@@ -13,7 +13,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 04](#day-04)
     - [Day 05](#day-05)
     - [Day 06](#day-06)
-    - [Day 07](#day-07)
+    - [Day 08](#day-08)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -97,20 +97,15 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 06 folder](./Day%2006)
 
-### Day 07
+### Day 08
 
-- **Wrote 9 codes on:**
-  - **While loop**
-  - **Printing 1 to 10 numbers**
-  - **Printing 1 to n numbers**
-  - **Sum of n numbers**
-  - **For loop**
-  - **Square pattern**
-  - **Reverse any number**
-  - **Reverse the original number**
-  - **Do while loop**
+- **Wrote 4 codes on:**
+  - **Break statement**
+  - **Continue statement**
+  - **Print numbers, skip multiples of 10**
+  - **Print numbers, stop at multiples of 10**
 
-[Link to Day 07 folder](./Day%2007)
+[Link to Day 08 folder](./Day%2008)
 
 ### More Days Coming Soon...
 
