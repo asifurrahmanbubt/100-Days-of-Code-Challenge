@@ -14,6 +14,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 05](#day-05)
     - [Day 06](#day-06)
     - [Day 08](#day-08)
+    - [Day 09](#day-09)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -106,6 +107,13 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Print numbers, stop at multiples of 10**
 
 [Link to Day 08 folder](./Day%2008)
+
+### Day 09
+
+- **Wrote 1 code on:**
+  - **Addition and Multiplication of all numbers**
+
+[Link to Day 09 folder](./Day%2009)
 
 ### More Days Coming Soon...
 
