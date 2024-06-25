@@ -15,6 +15,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 06](#day-06)
     - [Day 08](#day-08)
     - [Day 09](#day-09)
+    - [Day 10](#day-10)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -114,6 +115,20 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Addition and Multiplication of all numbers**
 
 [Link to Day 09 folder](./Day%2009)
+
+### Day 10
+
+- **Wrote 8 codes on:**
+  - **Prime Number Checker**
+  - **Reads a set of integers and then prints the sum of the even and odd integers**
+  - **Factorial of a number**
+  - **Star Pattern**
+  - **Inverted Star Pattern**
+  - **Half Pyramid Pattern**
+  - **Inverted Half Pyramid Pattern**
+  - **ASCII Character Pattern**
+
+[Link to Day 10 folder](./Day%2010)
 
 ### More Days Coming Soon...
 
