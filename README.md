@@ -16,6 +16,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 08](#day-08)
     - [Day 09](#day-09)
     - [Day 10](#day-10)
+    - [Day 11](#day-11)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -129,6 +130,16 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **ASCII Character Pattern**
 
 [Link to Day 10 folder](./Day%2010)
+
+### Day 11
+
+- **Wrote 4 codes on:**
+  - **Copycat**
+  - **Add Them Up**
+  - **Extremely Basic**
+  - **Watermelon**
+
+[Link to Day 11 folder](./Day%2011)
 
 ### More Days Coming Soon...
 
