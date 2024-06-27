@@ -17,6 +17,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 09](#day-09)
     - [Day 10](#day-10)
     - [Day 11](#day-11)
+    - [Day 12](#day-12)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -140,6 +141,15 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Watermelon**
 
 [Link to Day 11 folder](./Day%2011)
+
+### Day 12
+
+- **Wrote 3 codes on:**
+  - **Function**
+  - **Parameters**
+  - **Parameters vs Arguments**
+
+[Link to Day 12 folder](./Day%2012)
 
 ### More Days Coming Soon...
 
