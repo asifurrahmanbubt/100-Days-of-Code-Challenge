@@ -144,10 +144,9 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 ### Day 12
 
-- **Wrote 3 codes on:**
-  - **Function**
-  - **Parameters**
-  - **Parameters vs Arguments**
+- **Wrote 2 codes on:**
+  - **HackerRank1**
+  - **HackerRank2**
 
 [Link to Day 12 folder](./Day%2012)
 
