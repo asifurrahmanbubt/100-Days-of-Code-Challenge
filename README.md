@@ -18,6 +18,8 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 10](#day-10)
     - [Day 11](#day-11)
     - [Day 12](#day-12)
+    - [Day 13](#day-13)
+    - [Day 14](#day-14)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -144,11 +146,28 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 ### Day 12
 
+- **Wrote 3 codes on:**
+  - **Function**
+  - **Parameters**
+  - **Parameters vs Arguments**
+
+[Link to Day 12 folder](./Day%2012)
+
+### Day 13
+
 - **Wrote 2 codes on:**
   - **HackerRank1**
   - **HackerRank2**
 
-[Link to Day 12 folder](./Day%2012)
+[Link to Day 13 folder](./Day%2013)
+
+### Day 14
+
+- **Wrote 2 codes on:**
+  - **HackerRank3**
+  - **HackerRank4**
+
+[Link to Day 14 folder](./Day%2014)
 
 ### More Days Coming Soon...
 
