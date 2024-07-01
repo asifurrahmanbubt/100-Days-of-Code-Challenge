@@ -21,6 +21,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 13](#day-13)
     - [Day 14](#day-14)
     - [Day 15](#day-15)
+    - [Day 16](#day-16)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -176,6 +177,14 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **HackerRank5**
 
 [Link to Day 15 folder](./Day%2015)
+
+### Day 16
+
+- **Wrote 2 codes on:**
+  - **Sum of Digits**
+  - **Multiplication Table**
+
+[Link to Day 16 folder](./Day%2016)
 
 ### More Days Coming Soon...
 
