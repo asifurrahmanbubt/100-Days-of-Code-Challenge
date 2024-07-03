@@ -23,6 +23,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 15](#day-15)
     - [Day 16](#day-16)
     - [Day 17](#day-17)
+    - [Day 18](#day-18)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -195,6 +196,16 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 17 folder](./Day%2017)
 
+### Day 18
+
+- **Wrote 4 codes on:**
+  - **Factorial Function**
+  - **Binomial Coefficient**
+  - **Function Overloading by Parameters**
+  - **Function Overloading by Data Types**
+
+[Link to Day 18 folder](./Day%2018)
+
 ### More Days Coming Soon...
 
 Stay tuned as I continue to update this repository with new code and learning progress every day!
@@ -211,3 +222,5 @@ Feel free to browse through the folders and explore the code. If you have any qu
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out.
+
+Happy coding!
