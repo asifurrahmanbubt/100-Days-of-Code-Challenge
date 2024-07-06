@@ -26,6 +26,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 18](#day-18)
     - [Day 19](#day-19)
     - [Day 20](#day-20)
+    - [Day 21](#day-21)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -223,6 +224,14 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Prime Range**
 
 [Link to Day 20 folder](./Day%2020)
+
+### Day 21
+
+- **Wrote 2 codes on:**
+  - **Power**
+  - **GCD calculator**
+
+[Link to Day 21 folder](./Day%2021)
 
 ### More Days Coming Soon...
 
