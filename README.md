@@ -27,6 +27,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 19](#day-19)
     - [Day 20](#day-20)
     - [Day 21](#day-21)
+    - [Day 22](#day-22)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -233,6 +234,16 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 21 folder](./Day%2021)
 
+### Day 22
+
+- **Wrote 4 codes on:**
+  - **Array**
+  - **Array Marks**
+  - **Updated Marks**
+  - **Length of Marks**
+
+[Link to Day 22 folder](./Day%2022)
+
 ### More Days Coming Soon...
 
 Stay tuned as I continue to update this repository with new code and learning progress every day!
@@ -250,4 +261,9 @@ Feel free to browse through the folders and explore the code. If you have any qu
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out.
 
+---
+
 Happy coding!
+
+---
+
