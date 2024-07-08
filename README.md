@@ -28,6 +28,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 20](#day-20)
     - [Day 21](#day-21)
     - [Day 22](#day-22)
+    - [Day 23](#day-23)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -244,6 +245,17 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 22 folder](./Day%2022)
 
+### Day 23
+
+- **Wrote 5 codes on:**
+  - **Sum Of Two Numbers**
+  - **Even Or Odd**
+  - **Maximum Of Three**
+  - **Sum Of Digits**
+  - **Multiplication Table**
+
+[Link to Day 23 folder](./Day%2023)
+
 ### More Days Coming Soon...
 
 Stay tuned as I continue to update this repository with new code and learning progress every day!
@@ -266,4 +278,3 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 Happy coding!
 
 ---
-
