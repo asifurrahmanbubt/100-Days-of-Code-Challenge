@@ -29,6 +29,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 21](#day-21)
     - [Day 22](#day-22)
     - [Day 23](#day-23)
+    - [Day 24](#day-24)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -255,6 +256,17 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Multiplication Table**
 
 [Link to Day 23 folder](./Day%2023)
+
+### Day 24
+
+- **Wrote 5 codes on:**
+  - **Reverse Number**
+  - **Count Vowels**
+  - **Palindrome Check**
+  - **Factorial using Recursion**
+  - **Largest Element in an Array**
+
+[Link to Day 24 folder](./Day%2024)
 
 ### More Days Coming Soon...
 
