@@ -30,6 +30,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 22](#day-22)
     - [Day 23](#day-23)
     - [Day 24](#day-24)
+    - [Day 25](#day-25)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -268,6 +269,17 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 
 [Link to Day 24 folder](./Day%2024)
 
+### Day 25
+
+- **Wrote 5 codes on:**
+  - **Calculator**
+  - **Chessboard**
+  - **MinMaxArray**
+  - **NameID**
+  - **OneToN**
+
+[Link to Day 25 folder](./Day%2025)
+
 ### More Days Coming Soon...
 
 Stay tuned as I continue to update this repository with new code and learning progress every day!
@@ -279,7 +291,9 @@ Each day has its own folder (e.g., `Day 01`, `Day 02`, etc.) containing all the 
 - Java source files (`.java`)
 - Any additional resources or notes related to that day's learning
 
-Feel free to browse through the folders and explore the code. If you have any questions or suggestions, please reach out!
+Feel free to browse through the folders and explore the code. If you
+
+ have any suggestions or improvements, please open an issue or submit a pull request.
 
 ## Contact
 
