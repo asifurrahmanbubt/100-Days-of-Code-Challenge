@@ -31,6 +31,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 23](#day-23)
     - [Day 24](#day-24)
     - [Day 25](#day-25)
+    - [Day 26](#day-26)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -279,6 +280,14 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **OneToN**
 
 [Link to Day 25 folder](./Day%2025)
+
+### Day 26
+
+- **Wrote 1 codes on:**
+  - **Double Average**
+
+[Link to Day 26 folder](./Day%2026)
+
 
 ### More Days Coming Soon...
 
