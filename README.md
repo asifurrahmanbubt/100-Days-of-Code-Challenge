@@ -32,6 +32,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 24](#day-24)
     - [Day 25](#day-25)
     - [Day 26](#day-26)
+    - [Day 27](#day-27)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -287,6 +288,14 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **Double Average**
 
 [Link to Day 26 folder](./Day%2026)
+
+### Day 27
+
+- **Wrote 2 codes on:**
+  - **StringReversal**
+  - **VowelConsonantCount**
+
+[Link to Day 27 folder](./Day%2027)
 
 
 ### More Days Coming Soon...
