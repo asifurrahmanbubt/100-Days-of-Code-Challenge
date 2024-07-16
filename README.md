@@ -36,6 +36,7 @@ Welcome to my 100 Days of Code Challenge repository! This repository will contai
     - [Day 28](#day-28)
     - [Day 29](#day-29)
     - [Day 30](#day-30)
+    - [Day 31](#day-31)
     - [More Days Coming Soon...](#more-days-coming-soon)
 4. [How to Navigate This Repository](#how-to-navigate-this-repository)
 5. [Contact](#contact)
@@ -323,6 +324,13 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
   - **TemperatureConverter**
  
 [Link to Day 30 folder](./Day%2030)
+
+### Day 30
+
+- **Wrote 1 code on:**
+  - **FizzBuzz**
+ 
+[Link to Day 31 folder](./Day%2031)
 
 
 ### More Days Coming Soon...
