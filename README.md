@@ -325,7 +325,7 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
  
 [Link to Day 30 folder](./Day%2030)
 
-### Day 30
+### Day 31
 
 - **Wrote 1 code on:**
   - **FizzBuzz**
