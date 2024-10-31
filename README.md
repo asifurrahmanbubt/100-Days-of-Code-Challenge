@@ -333,9 +333,9 @@ The 100 Days of Code Challenge is a commitment to code for at least an hour ever
 [Link to Day 31 folder](./Day%2031)
 
 
-### More Days Coming Soon...
+### End of the Challenge
 
-Stay tuned as I continue to update this repository with new code and learning progress every day!
+Thank you for following along with my journey through the 100 Days of Code Challenge! Although my goal was to code for 100 days, I’ve decided to conclude the challenge at Day 31. Through this journey, I gained a solid foundation in Java, achieving the milestones I set out to accomplish.
 
 ## How to Navigate This Repository
 
